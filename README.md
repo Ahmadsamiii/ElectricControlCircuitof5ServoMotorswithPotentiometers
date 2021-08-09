@@ -25,7 +25,7 @@ https://user-images.githubusercontent.com/85820553/128617562-36f052e8-949b-45a8-
   - Servo Motors (5)
   - Potentiometer (5)
   - Connection Wires (33)
-  - 1.5V Battery with switch
+  - 1.5V Battery with switch (4)
 
 ![image](https://user-images.githubusercontent.com/85820553/128617698-5839bf03-b501-4adf-8678-bfdc12ef8eca.png)
 
